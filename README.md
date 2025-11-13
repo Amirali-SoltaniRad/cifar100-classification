@@ -153,6 +153,7 @@ notebook>=7.4.7
 ```
 
 4. **Download CIFAR-100 dataset**
+
 Download dataset from release and extract
 
 e.g., download cifar-100-python.tar.gz from [release page](https://github.com/Amirali‑SoltaniRad/cifar100-classification/releases/tag/v1.0) and extract to ./data
