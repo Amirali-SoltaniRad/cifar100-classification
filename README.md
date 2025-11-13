@@ -156,7 +156,7 @@ notebook>=7.4.7
 
 Download dataset from release and extract
 
-e.g., download cifar-100-python.tar.gz from [release page](https://github.com/Amirali‑SoltaniRad/cifar100-classification/releases/tag/v1.0) and extract to ./data
+e.g., download cifar-100-python.tar.gz from [releases page](https://github.com/Amirali-SoltaniRad/cifar100-classification/releases) and extract to ./data
 
 ## 🎮 Usage
 
@@ -299,7 +299,7 @@ cifar100-classification/
 
 ```
 
-> **Note:** You can download `model_checkpoint.pth` and `cifar-100-python.tar.gz` from the [release page](https://github.com/Amirali‑SoltaniRad/cifar100-classification/releases/tag/v1.0).
+> **Note:** You can download `model_checkpoint.pth` and `cifar-100-python.tar.gz` from the [release page](https://github.com/Amirali-SoltaniRad/cifar100-classification/releases).
 
 ## 🔧 Customization
 
