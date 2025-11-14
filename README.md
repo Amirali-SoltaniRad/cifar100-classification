@@ -29,19 +29,19 @@ This project implements a robust image classification pipeline for the CIFAR-100
 
 ## 📋 Table of Contents
 
-- [Model Architecture](##Model-Architecture)
-- [Training Strategy](##Training-Strategy)
-- [Installation](##Installation)
-- [Usage](##Usage)
-- [Results](##Results)
-- [Dataset](##Dataset)
-- [Project Structure](##Project-Structure)
-- [Customization](##Customization)
-- [Contributing](##Contributing)
-- [License](##License)
-- [Acknowledgments](##Acknowledgments)
-- [References](##References)
-- [Contact](##Contact)
+- [Model Architecture](#model-architecture)
+- [Training Strategy](#training-strategy)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
+- [Contact](#contact)
 
 ## 🏗️ Model Architecture
 
