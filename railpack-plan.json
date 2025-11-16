@@ -1,0 +1,6 @@
+{
+  "runtime": "python-3.10",
+  "web": {
+    "command": "streamlit run app.py --server.port $PORT --server.address 0.0.0.0"
+  }
+}
