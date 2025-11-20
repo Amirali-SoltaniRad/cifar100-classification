@@ -208,7 +208,7 @@ import torch.nn as nn
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model = models.resnet50(weights="IMAGENET1K_V2")
 model.fc = nn.Linear(2048, 100)
-model.load_state_dict(torch.load("best_model.pth")["model_state_dict"])
+model.load_state_dict(torch.load("model_checkpoint.pth")["model_state_dict"])
 model.to(device)
 model.eval()
 
@@ -299,7 +299,7 @@ cifar100-classification/
 
 ```
 
-> **Note:** You can download `model_checkpoint.pth` and `cifar-100-python.tar.gz` from the [release page](https://github.com/Amirali-SoltaniRad/cifar100-classification/releases).
+> **Note:** You can download `model_checkpoint.pth` and `cifar-100-python.tar.gz` from the [release page](https://github.com/Amirali-SoltaniRad/cifar100-classification/releases).(There are also additional files available for download from there.)
 
 ## Customization
 
